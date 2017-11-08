@@ -1,11 +1,9 @@
 # HTTP
-
 ---
-
 ### Características
 #### de HTTP
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### Protocolo de **Capa de Aplicación** utilizado para enviar documentos hipermedia (HTML).
@@ -18,7 +16,7 @@
 ### Típica
 #### Sesión
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### Una sesión consta de **tres fases**:
@@ -34,7 +32,7 @@
 
 #### **Cabeceras** HTTP
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### Las cabeceras HTTP permiten que el cliente y el servidor pasen información adicional con la petición o la respuesta.
@@ -47,7 +45,7 @@
 
 #### **Peticiones** HTTP
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### HTTP define un conjunto de métodos de petición para indicar la acción que se desea realizar para un recurso determinado.
@@ -59,7 +57,7 @@
 
 #### **Respuestas** HTTP
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### Después de recibir e interpretar un mensaje de solicitud, el servidor responde con un mensaje de respuesta HTTP
@@ -73,7 +71,7 @@
 
 #### Cookies
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### Una cookie de navegador es una pequeña pieza de datos que un servidor envía al navegador del usuario.
@@ -87,7 +85,7 @@
 
 #### Evolución de HTTP
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### Fue inventado por Tim Berners-Lee entre los años 1989-1991.
@@ -104,7 +102,7 @@
 #### Características
 #### HTTP 2.0
 
-![Press Down Key](assets/down-arrow.png)
+![Dale Abajo](down-arrow.png)
 
 +++
 ###### El protocolo HTTP/2, tiene notables diferencias fundamentales respecto a la versión anterior HTTP/1
