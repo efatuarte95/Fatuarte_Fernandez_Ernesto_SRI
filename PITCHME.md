@@ -8,11 +8,11 @@
 ![Press Down Key](assets/down-arrow.png)
 
 +++
-####### Protocolo de **Capa de Aplicación** utilizado para enviar documentos hipermedia (HTML).
-####### Sigue el modelo cliente-servidor, en el que un **cliente** establece la conexión, realiza una **petición**
-####### a un servidor y espera su respuesta. Es un protocolo sin estado, por lo que **no guarda ningún dato**.
-####### Aunque suele tratarse de una conexión de tipo **TCP/IP** puede ser usado sobre la capa de transporte.
-####### HTTP es **sencillo** (está pensado para ser leido e interpretado de forma fácil) y **extensible**
+###### Protocolo de **Capa de Aplicación** utilizado para enviar documentos hipermedia (HTML).
+###### Sigue el modelo cliente-servidor, en el que un **cliente** establece la conexión, realiza una **petición**
+###### a un servidor y espera su respuesta. Es un protocolo sin estado, por lo que **no guarda ningún dato**.
+###### Aunque suele tratarse de una conexión de tipo **TCP/IP** puede ser usado sobre la capa de transporte.
+###### HTTP es **sencillo** (está pensado para ser leido e interpretado de forma fácil) y **extensible**
 ---
 
 ### Típica
